@@ -215,14 +215,14 @@ tmp*.tmp
 # Logs
 *.log
 
-# Downloaded media (optional — если не хочешь хранить видео в репо)
+# Downloaded media
 *.mp4
 *.mkv
 *.mp3
 *.webm
 *.m4a
 
-# Thumbnails / previews cache (если добавишь кеширование)
+# Thumbnails / previews cache
 .thumbnails/
 .cache_thumbnails/
 
